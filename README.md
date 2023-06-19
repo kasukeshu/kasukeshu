@@ -5,7 +5,7 @@
    <a href="[https://www.youtube.com/channel/UCyo7IiN1hANaCNzlSqzxk1A](https://www.youtube.com/channel/UCAm25nc1pLAfuXPFmK5vKiA)" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
    <a href="https://instagram.com/kynthiafx" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://github.com/kynthiafx" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-   <a href="https://twitter.com/kasukeshu" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+   <a href="https://twitter.com/kynthiafx" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 <div align="center">
    <a href="https://discord.com/users/939214875861868654" target="_blank">
